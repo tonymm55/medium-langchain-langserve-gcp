@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/anthonymoran/230730 My Documents/Natta.ai/Development/medium-langchain-langserve-gcp/.venv/bin/python3.11" "$0" "$@"
+'''exec' "/Users/anthonymoran/230730 My Documents/Natta.ai/Development/medium-langchain-langserve-gcp/.venv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
