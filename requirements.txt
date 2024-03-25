@@ -1,0 +1,6 @@
+nbconvert
+langchain-cli
+langchain
+langchain-openai
+langserve[all]
+python-dotenv==1.0.0
